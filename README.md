@@ -1,6 +1,6 @@
 # DSP-KIT-MATLAB
 
-In this repository, various digital signal processing (DSP) and image processing (DIP) functions are implemented and demonstrated.
+In this repository, various digital signal processing (DSP) and image processing (DIP) functions and algorithms are implemented and demonstrated.
 I have also implemented a real time interactive pole-zero diagram GUI with MATLAB. A student or any other user may point click 
 some poles and zeros and/or choose a pole angle and radius from the dragging bar, then a transfer function is generated along with its frequency magnitude response and impulse response. 
 
